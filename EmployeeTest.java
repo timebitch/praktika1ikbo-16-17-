@@ -5,7 +5,7 @@ public class EmployeeTest {
       /* Create two objects using constructor */
       Employee empOne   = new Employee("Moondust");
       Employee empTwo   = new Employee("Run fast as you can");
-      Employee empThree = new Employee("burn Motherfucker");
+      Employee empThree = new Employee("NOW");
 
       // Invoking methods for each object created
       empOne.empAge(26);
